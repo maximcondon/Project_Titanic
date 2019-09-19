@@ -11,6 +11,6 @@ Topics introduced and discussed:
 - Feature Engineering: Normalising/Scaling, Imputation, Interpolation, One-hot Encoding, Mapping, adding Features, Interaction terms, Feature Selection
 - Cross Validation: K-fold Cross Validation, Test/Train Split, Overfitting, Bootstrapping
 - Tree-based Models: Decision Trees, Random Forests, Gradient Boosting
-- Hyperparameters: Optimising,
+- Hyperparameters: Optimising, building optimiser with for loops, GridSearchCV
 - Support Vector Machines: SVCs
 - Ensembles and Pipelines
